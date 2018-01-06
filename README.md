@@ -1,2 +1,4 @@
 # JavaScript-30
-All JavaScript 30 Exercises.
+Discontinued
+
+JavaScript 30 Exercises.
